@@ -1,7 +1,0 @@
-{
-    "mlib.items.advanced_hint": "자세한 내용을 표시하려면 SHIFT를 누르십시오...",
-    "mlib.item_sets.item_title": "%1$s(%2$d/%3$d)",
-    "mlib.item_sets.item": "%1$s",
-    "mlib.item_sets.bonus_title": "%1$s 보너스:",
-    "mlib.item_sets.bonus": "[%1$s] %2$s"
-}
